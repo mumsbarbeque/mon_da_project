@@ -1,0 +1,138 @@
+================================================================================
+METADATA — AIHW EMERGENCY DEPARTMENT PERFORMANCE PROJECT
+Monash Data Analytics Career Accelerator | Course 2 (MON-DA-C201)
+================================================================================
+
+IMPORTANT PROVENANCE NOTE
+This is a SYNTHETIC teaching dataset created for the Monash Data Analytics
+Career Accelerator. It is modelled on the structure and published national
+patterns of the Australian Institute of Health and Welfare (AIHW) MyHospitals
+emergency department (ED) care collection (National Non-Admitted Patient
+Emergency Department Care Database), 2023-24 reference year. All hospital
+names are fictional. Values are statistically plausible but do not describe
+any real hospital, patient, or event. Do not cite this data outside the
+program. Real AIHW ED data: https://www.aihw.gov.au/hospitals
+
+SCENARIO
+You have been contracted by the AIHW to analyse emergency department
+performance across a representative extract of 60 Australian public hospital
+EDs, covering 1 July 2023 to 30 June 2025 (financial years 2023-24 and
+2024-25). The files below were assembled from different reporting systems;
+treat identifier and format consistency as something to verify, not assume.
+
+--------------------------------------------------------------------------------
+FILE 1: ed_presentations.csv
+--------------------------------------------------------------------------------
+One row per hospital, per month, per triage category.
+Monthly counts of ED presentations and subsequent admissions.
+
+  hospital_id       Hospital identifier (join key to hospital_metadata.xlsx)
+  month             First day of the reporting month, YYYY-MM-DD
+  triage_code       Australasian Triage Scale (ATS) category, integer 1-5
+  triage_category   Triage code with label, e.g. "3 Urgent"
+  presentations     Count of ED presentations in the month
+  admissions        Count of those presentations subsequently admitted
+                    to hospital (blank where the feed did not report)
+
+--------------------------------------------------------------------------------
+FILE 2: waiting_times_regional.csv
+--------------------------------------------------------------------------------
+One row per hospital, per month, per triage category.
+Timeliness measures extracted from a separate regional reporting system.
+
+  hospital_id                     Hospital identifier (verify formatting
+                                  before joining across files)
+  month                           Reporting month, MMM-YYYY (e.g. Jul-2023)
+  triage_code                     ATS category, integer 1-5
+  median_wait_to_treatment_mins   Median minutes from presentation to start
+                                  of clinical care
+  pct_seen_on_time                Percentage of patients seen within the ATS
+                                  clinically recommended time for their
+                                  triage category (blank = not reported)
+  median_ed_stay_mins             Median total minutes spent in the ED
+
+ATS clinically recommended maximum waiting times:
+  1 Resuscitation  immediate      4 Semi-urgent   60 minutes
+  2 Emergency      10 minutes     5 Non-urgent   120 minutes
+  3 Urgent         30 minutes
+
+--------------------------------------------------------------------------------
+FILE 3: hospital_metadata.xlsx
+--------------------------------------------------------------------------------
+Sheet "hospitals" — one row per hospital (62 rows; not all hospitals
+reported activity during the extract window):
+  hospital_id, hospital_name, state, peer_group, remoteness_area, ed_beds
+
+  peer_group values (AIHW hospital peer group classification):
+    Principal referral | Public acute group A | Public acute group B |
+    Public acute group C | Women's and children's
+  remoteness_area values (ASGS): Major Cities | Inner Regional |
+    Outer Regional | Remote | Very Remote
+
+Sheet "state_populations" — one row per state/territory:
+  state, population_2024 (Australian Bureau of Statistics estimated
+  resident population, used for attendance-rate-per-1,000 calculations)
+
+--------------------------------------------------------------------------------
+FILE 4: health_tweets.csv
+--------------------------------------------------------------------------------
+480 synthetic social media posts (1 July 2025 to 30 June 2026) about Australian
+emergency department experiences, collected for a sentiment and topic analysis
+pilot. All hospitals are unnamed and all events fictional; any resemblance to
+real posts is coincidental. The file contains no personal or sensitive
+information under the Privacy Act 1988, so it is safe to send to an external
+AI API (Module 5).
+
+  tweet_id      integer, unique record identifier (1001-1480)
+  created_at    ISO date, YYYY-MM-DD
+  state         Australian state or territory of the poster (weighted to
+                population)
+  tweet_text    the post text
+
+Deliberate content mix (for the Topic 5.3 evaluation work): plain negative,
+neutral and positive posts (approximately 41 / 31 / 28 per cent); sarcastic
+negatives with positive surface wording; mixed-sentiment posts (the dominant
+clause carries the label); negation cases ("not unhappy"); clinical-vocabulary
+neutral posts.
+
+Note: this file has no sentiment or topic labels. Creating a manually
+labelled ground-truth subset is part of the Module 5 work (5.3.5). The
+Module 5 files include health_tweets_groundtruth_template.csv (50 sampled
+rows from this file, with empty label and comments columns) and one
+acceptable labelling of the same 50 rows.
+
+--------------------------------------------------------------------------------
+RELATIONSHIPS
+--------------------------------------------------------------------------------
+ed_presentations.csv  --- hospital_id --->  hospital_metadata.xlsx (hospitals)
+waiting_times_regional.csv --- hospital_id ---> hospital_metadata.xlsx
+ed_presentations.csv  <-- hospital_id + month + triage_code -->
+                                              waiting_times_regional.csv
+hospital_metadata.xlsx (hospitals.state) ---> state_populations.state
+health_tweets.csv     --- no key; relates by time period and theme only
+
+--------------------------------------------------------------------------------
+PLANNING BENCHMARK (used in Assignment activity 6)
+--------------------------------------------------------------------------------
+benchmark_capacity_monthly = 165000
+
+The agreed planning capacity across the 60 reporting hospitals, expressed as
+ED presentations per month. Months in which total presentations exceed this
+figure are treated as operating above planned capacity. Use it as the
+horizontal reference line in the utilisation chart (Assignment activity 6,
+Question 1).
+
+--------------------------------------------------------------------------------
+BUSINESS QUESTIONS (from the AIHW brief)
+--------------------------------------------------------------------------------
+ 1. How do ED presentations vary over time - by month, season, triage
+    category, hospital peer group, and state/territory?
+ 2. Where and when are patients not being seen within clinically
+    recommended times, and is timeliness improving or deteriorating?
+ 3. How do attendance rates per 1,000 population compare across states?
+ 4. What staffing and resourcing recommendations does the evidence support?
+ 5. What does public social media sentiment suggest about community
+    experience of EDs, and how reliable is that signal?
+
+Version: 1.1 (November 2026). Contact: course convenor via Canvas.
+================================================================================

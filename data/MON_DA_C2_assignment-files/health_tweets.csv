@@ -1,0 +1,481 @@
+tweet_id,created_at,state,tweet_text
+1001,2026-02-03,NSW,"Wow, emergency really rolling out the red carpet, 90 minutes and counting. Amazing."
+1002,2025-08-31,WA,Tried calling the base hospital emergency department four times today. No answer. How do people check anything?
+1003,2025-09-18,SA,Telehealth follow-up after our the base hospital emergency department visit saved us a second trip. More of this please.
+1004,2026-06-02,QLD,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1005,2025-09-15,VIC,"the children’s hospital ED has moved to a new triage intake process from Monday, per the health department update."
+1006,2026-03-16,QLD,Nurse practitioner at the children’s hospital ED explained everything clearly. Felt genuinely looked after.
+1007,2025-10-31,VIC,Presentation numbers at emergency at our hospital up on last winter according to the annual report.
+1008,2025-07-11,QLD,5 hours in the waiting room at the local ED and still counting. The system is broken.
+1009,2025-12-18,WA,"Nurses at emergency at our hospital are clearly run off their feet. Not their fault, there just aren’t enough of them."
+1010,2026-04-12,VIC,Grateful for the volunteers helping people find their way around emergency today.
+1011,2025-09-28,NSW,Nurse practitioner at the children’s hospital ED explained everything clearly. Felt genuinely looked after.
+1012,2026-03-20,NSW,The new short stay unit at emergency at our hospital is a game changer for families. Well designed space.
+1013,2026-01-14,VIC,Ambulances ramped outside the base hospital emergency department again this morning. 3 hours to offload. Something has to change.
+1014,2026-04-16,QLD,From arrival to discharge in under two hours at the base hospital emergency department. Credit where due.
+1015,2026-06-20,NSW,"Only 4 hours in the children’s hospital ED tonight, lightning fast service as always!"
+1016,2026-04-01,NSW,Telehealth follow-up after our the local ED visit saved us a second trip. More of this please.
+1017,2025-09-26,VIC,"the base hospital emergency department has moved to a new triage intake process from Monday, per the health department update."
+1018,2026-04-30,QLD,Tried calling emergency at our hospital four times today. No answer. How do people check anything?
+1019,2025-09-17,WA,From arrival to discharge in under two hours at emergency at our hospital. Credit where due.
+1020,2025-08-12,QLD,"the base hospital emergency department recruiting registered nurses for the winter surge roster, applications close Friday."
+1021,2026-06-22,VIC,"the base hospital emergency department still using paper forms at intake in 2026, queue out the door."
+1022,2025-12-24,TAS,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1023,2025-11-08,NSW,From arrival to discharge in under two hours at emergency at our hospital. Credit where due.
+1024,2025-08-22,NSW,Grateful for the volunteers helping people find their way around emergency at our hospital today.
+1025,2025-09-08,WA,Presentation numbers at emergency at our hospital up on last winter according to the annual report.
+1026,2025-12-06,VIC,The new short stay unit at the base hospital emergency department is a game changer for families. Well designed space.
+1027,2026-06-01,NSW,Triage category 2 presentation volumes at the children’s hospital ED trending above the five-year mean this quarter.
+1028,2025-07-27,WA,"emergency recruiting registered nurses for the winter surge roster, applications close Friday."
+1029,2025-08-21,QLD,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1030,2025-11-15,QLD,ED wait at emergency was 2 hours but the nurses were absolutely incredible once we got in.
+1031,2026-06-10,QLD,Ambulances ramped outside emergency again this morning. 3 hours to offload. Something has to change.
+1032,2026-01-21,NT,5 hours in the waiting room at emergency and still counting. The system is broken.
+1033,2025-12-26,VIC,"Can’t fault the care at the local ED, even if the waiting room is falling apart."
+1034,2026-06-14,SA,Nurse practitioner at the base hospital emergency department explained everything clearly. Felt genuinely looked after.
+1035,2025-10-13,VIC,Reminder that our regional ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1036,2026-04-23,QLD,Presentation numbers at the children’s hospital ED up on last winter according to the annual report.
+1037,2025-09-18,NSW,"Nurses at emergency are clearly run off their feet. Not their fault, there just aren’t enough of them."
+1038,2026-04-21,NSW,Telehealth follow-up after our the base hospital emergency department visit saved us a second trip. More of this please.
+1039,2025-10-29,VIC,Spent 2 hours in emergency tonight with my son before anyone could see us. This is not okay.
+1040,2026-06-30,WA,"the base hospital emergency department recruiting registered nurses for the winter surge roster, applications close Friday."
+1041,2026-05-09,ACT,Another lovely evening at the children’s hospital ED. 90 minutes of premium waiting room entertainment.
+1042,2025-11-30,QLD,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1043,2026-02-18,VIC,From arrival to discharge in under two hours at our regional ED. Credit where due.
+1044,2026-06-18,QLD,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1045,2025-11-24,NSW,Huge thanks to the triage team at the local ED last night. Professional and kind under pressure.
+1046,2025-07-04,NSW,4 hours in the waiting room at the base hospital emergency department and still counting. The system is broken.
+1047,2026-01-15,VIC,"the children’s hospital ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1048,2025-12-21,NSW,Telehealth follow-up after our the children’s hospital ED visit saved us a second trip. More of this please.
+1049,2025-08-25,QLD,Telehealth follow-up after our emergency visit saved us a second trip. More of this please.
+1050,2026-05-28,NSW,"Took mum to emergency, told the wait is all night. She is 84. How is this acceptable?"
+1051,2025-09-13,VIC,"Staff at our regional ED were wonderful, shame about the 90 minutes wait though."
+1052,2025-10-31,QLD,The wait at emergency at our hospital wasn’t as bad as people say. In and out in all night.
+1053,2025-10-09,QLD,Median time to treatment stats for our state published this morning. Link in bio.
+1054,2026-05-26,VIC,Tried calling the local ED four times today. No answer. How do people check anything?
+1055,2025-07-15,NSW,"the base hospital emergency department recruiting registered nurses for the winter surge roster, applications close Friday."
+1056,2025-12-03,QLD,Median time to treatment stats for our state published this morning. Link in bio.
+1057,2025-10-31,QLD,ED wait at emergency was 90 minutes but the nurses were absolutely incredible once we got in.
+1058,2026-04-26,TAS,No working water fountain and one toilet for the entire our regional ED waiting area. Grim.
+1059,2025-09-01,TAS,Telehealth follow-up after our the children’s hospital ED visit saved us a second trip. More of this please.
+1060,2026-06-02,ACT,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1061,2025-08-13,NSW,Huge thanks to the triage team at the local ED last night. Professional and kind under pressure.
+1062,2025-09-21,VIC,5 hours in the waiting room at emergency at our hospital and still counting. The system is broken.
+1063,2025-07-16,TAS,Tried calling the local ED four times today. No answer. How do people check anything?
+1064,2026-01-20,SA,Grateful for the volunteers helping people find their way around the children’s hospital ED today.
+1065,2026-02-12,NSW,Love paying $28 for parking to sit in the base hospital emergency department for six hours. Great value.
+1066,2026-04-06,NSW,Telehealth follow-up after our the children’s hospital ED visit saved us a second trip. More of this please.
+1067,2026-04-02,NSW,Huge thanks to the triage team at the local ED last night. Professional and kind under pressure.
+1068,2026-02-09,WA,Grateful for the volunteers helping people find their way around the children’s hospital ED today.
+1069,2025-11-24,SA,Reminder that emergency at our hospital has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1070,2026-02-10,NSW,Love paying $28 for parking to sit in the children’s hospital ED for 90 minutes. Great value.
+1071,2025-11-17,VIC,The waiting room at our regional ED has 20 seats and 60 people. People sitting on the floor.
+1072,2026-01-08,VIC,Huge thanks to the triage team at the children’s hospital ED last night. Professional and kind under pressure.
+1073,2026-02-19,NSW,"our regional ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1074,2026-06-07,VIC,Third time this month the base hospital emergency department has been on bypass because of staff shortages.
+1075,2026-05-16,VIC,Nurse practitioner at emergency explained everything clearly. Felt genuinely looked after.
+1076,2026-04-17,NSW,"the children’s hospital ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1077,2025-08-11,NSW,Nurse practitioner at the local ED explained everything clearly. Felt genuinely looked after.
+1078,2025-10-24,TAS,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1079,2026-06-12,QLD,Triage nurse was rude and dismissive at emergency today. Understand the pressure but that stung.
+1080,2025-08-05,SA,Third time this month emergency at our hospital has been on bypass because of staff shortages.
+1081,2026-05-08,SA,Grateful for the volunteers helping people find their way around the base hospital emergency department today.
+1082,2025-07-03,SA,Presentation numbers at our regional ED up on last winter according to the annual report.
+1083,2026-02-02,NSW,Waited 90 minutes at the local ED with a broken wrist. Left without being seen.
+1084,2026-03-17,VIC,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1085,2026-02-03,NT,"Wow, our regional ED really rolling out the red carpet, 90 minutes and counting. Amazing."
+1086,2025-10-13,VIC,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1087,2026-06-10,NSW,The new short stay unit at emergency is a game changer for families. Well designed space.
+1088,2026-03-08,QLD,Grateful for the volunteers helping people find their way around the local ED today.
+1089,2026-02-18,VIC,From arrival to discharge in under two hours at our regional ED. Credit where due.
+1090,2025-11-25,QLD,Telehealth follow-up after our emergency visit saved us a second trip. More of this please.
+1091,2026-04-07,VIC,"the base hospital emergency department still using paper forms at intake in 2026, queue out the door."
+1092,2025-11-11,QLD,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1093,2026-05-30,NT,The wait at our regional ED wasn’t as bad as people say. In and out in all night.
+1094,2026-05-01,NSW,Waited 90 minutes at emergency at our hospital with a broken wrist. Left without being seen.
+1095,2026-04-10,SA,Ambulances ramped outside the base hospital emergency department again this morning. 5 hours to offload. Something has to change.
+1096,2025-07-27,NSW,Nurse practitioner at the base hospital emergency department explained everything clearly. Felt genuinely looked after.
+1097,2025-10-17,SA,Ambulances ramped outside the children’s hospital ED again this morning. 3 hours to offload. Something has to change.
+1098,2026-02-21,VIC,One doctor covering the whole of emergency at our hospital on a Saturday night. Set up to fail.
+1099,2026-02-04,VIC,Grateful for the volunteers helping people find their way around the local ED today.
+1100,2025-11-25,NSW,"New multistorey car park at the children’s hospital ED opens next month, 400 spaces."
+1101,2026-05-28,VIC,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1102,2026-05-29,VIC,Telehealth follow-up after our emergency visit saved us a second trip. More of this please.
+1103,2026-03-11,NSW,Triage category 2 presentation volumes at our regional ED trending above the five-year mean this quarter.
+1104,2025-11-18,NSW,Spent all night in the local ED tonight with my son before anyone could see us. This is not okay.
+1105,2025-07-22,QLD,Presentation numbers at the children’s hospital ED up on last winter according to the annual report.
+1106,2026-02-02,VIC,Spent all night in emergency at our hospital tonight with my son before anyone could see us. This is not okay.
+1107,2025-08-06,QLD,"Wow, emergency really rolling out the red carpet, 5 hours and counting. Amazing."
+1108,2026-05-25,VIC,Reminder that the children’s hospital ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1109,2026-04-01,NSW,Spent six hours in emergency tonight with my son before anyone could see us. This is not okay.
+1110,2025-07-13,NSW,One doctor covering the whole of emergency at our hospital on a Saturday night. Set up to fail.
+1111,2025-10-29,QLD,Third time this month the local ED has been on bypass because of staff shortages.
+1112,2026-03-14,VIC,"Wow, emergency really rolling out the red carpet, six hours and counting. Amazing."
+1113,2025-08-21,VIC,Reminder that the local ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1114,2025-10-07,TAS,Median time to treatment stats for our state published this morning. Link in bio.
+1115,2025-11-29,NSW,"Wow, the local ED really rolling out the red carpet, 2 hours and counting. Amazing."
+1116,2025-11-02,QLD,No parking anywhere near the children’s hospital ED unless you can pay $28. People skip care over this.
+1117,2026-05-27,VIC,Grateful for the volunteers helping people find their way around the children’s hospital ED today.
+1118,2026-04-09,VIC,Waited 3 hours but the doctor who finally saw dad was thorough and kind.
+1119,2026-05-16,QLD,Reminder that emergency at our hospital has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1120,2026-05-21,NSW,From arrival to discharge in under two hours at the local ED. Credit where due.
+1121,2026-04-11,NSW,"Wow, the children’s hospital ED really rolling out the red carpet, 5 hours and counting. Amazing."
+1122,2026-01-22,NSW,From arrival to discharge in under two hours at the base hospital emergency department. Credit where due.
+1123,2025-12-21,WA,The new short stay unit at emergency is a game changer for families. Well designed space.
+1124,2025-11-20,QLD,Spent 4 hours in the base hospital emergency department tonight with my son before anyone could see us. This is not okay.
+1125,2026-04-02,NSW,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1126,2026-03-18,VIC,Third time this month the children’s hospital ED has been on bypass because of staff shortages.
+1127,2025-09-12,NSW,Ambulances ramped outside emergency again this morning. six hours to offload. Something has to change.
+1128,2025-09-10,QLD,Presentation numbers at emergency up on last winter according to the annual report.
+1129,2026-06-08,QLD,The waiting room at our regional ED has 20 seats and 60 people. People sitting on the floor.
+1130,2025-12-05,NSW,Telehealth follow-up after our the base hospital emergency department visit saved us a second trip. More of this please.
+1131,2025-08-10,QLD,From arrival to discharge in under two hours at emergency at our hospital. Credit where due.
+1132,2025-09-29,SA,One doctor covering the whole of emergency at our hospital on a Saturday night. Set up to fail.
+1133,2026-01-11,VIC,Tried calling the base hospital emergency department four times today. No answer. How do people check anything?
+1134,2026-04-20,VIC,The new short stay unit at the base hospital emergency department is a game changer for families. Well designed space.
+1135,2026-01-29,NSW,The new short stay unit at the children’s hospital ED is a game changer for families. Well designed space.
+1136,2026-03-07,NSW,Waited all night at emergency with a broken wrist. Left without being seen.
+1137,2026-01-29,VIC,"Staff at the local ED were wonderful, shame about the 5 hours wait though."
+1138,2025-12-21,WA,Spent six hours in the local ED tonight with my son before anyone could see us. This is not okay.
+1139,2025-07-01,QLD,Reminder that the children’s hospital ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1140,2025-10-13,QLD,One doctor covering the whole of emergency on a Saturday night. Set up to fail.
+1141,2026-02-11,VIC,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1142,2025-08-04,TAS,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1143,2026-02-13,NT,Presentation numbers at emergency at our hospital up on last winter according to the annual report.
+1144,2026-05-29,QLD,Waited all night at emergency at our hospital with a broken wrist. Left without being seen.
+1145,2026-03-14,NSW,"the base hospital emergency department recruiting registered nurses for the winter surge roster, applications close Friday."
+1146,2026-01-16,NSW,3 hours in the waiting room at our regional ED and still counting. The system is broken.
+1147,2026-01-09,VIC,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1148,2025-12-14,WA,The new short stay unit at the children’s hospital ED is a game changer for families. Well designed space.
+1149,2025-09-12,VIC,The wait at the local ED wasn’t as bad as people say. In and out in all night.
+1150,2025-08-27,NSW,Triage nurse was rude and dismissive at the base hospital emergency department today. Understand the pressure but that stung.
+1151,2025-08-30,QLD,"Staff at the local ED were wonderful, shame about the six hours wait though."
+1152,2025-07-27,NSW,Another lovely evening at our regional ED. 5 hours of premium waiting room entertainment.
+1153,2025-08-25,VIC,Grateful for the volunteers helping people find their way around our regional ED today.
+1154,2025-10-24,VIC,Reminder that the children’s hospital ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1155,2025-09-20,WA,Spent all night in emergency at our hospital tonight with my son before anyone could see us. This is not okay.
+1156,2025-10-19,WA,Nurse practitioner at emergency at our hospital explained everything clearly. Felt genuinely looked after.
+1157,2025-08-16,TAS,Median time to treatment stats for our state published this morning. Link in bio.
+1158,2025-12-26,QLD,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1159,2025-12-26,VIC,Nurse practitioner at emergency at our hospital explained everything clearly. Felt genuinely looked after.
+1160,2026-06-08,QLD,"Took mum to the children’s hospital ED, told the wait is 4 hours. She is 84. How is this acceptable?"
+1161,2026-05-23,VIC,"the local ED has moved to a new triage intake process from Monday, per the health department update."
+1162,2025-07-04,NSW,Telehealth follow-up after our the base hospital emergency department visit saved us a second trip. More of this please.
+1163,2025-12-11,QLD,Reminder that the children’s hospital ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1164,2025-09-14,WA,From arrival to discharge in under two hours at the children’s hospital ED. Credit where due.
+1165,2026-05-25,NSW,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1166,2026-05-31,VIC,Third time this month the base hospital emergency department has been on bypass because of staff shortages.
+1167,2025-07-22,VIC,One doctor covering the whole of our regional ED on a Saturday night. Set up to fail.
+1168,2025-12-16,WA,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1169,2025-10-01,NSW,Grateful for the volunteers helping people find their way around the children’s hospital ED today.
+1170,2026-04-10,NSW,Triage nurse was rude and dismissive at emergency today. Understand the pressure but that stung.
+1171,2026-06-03,VIC,Nurse practitioner at the local ED explained everything clearly. Felt genuinely looked after.
+1172,2025-09-21,VIC,Waited 3 hours but the doctor who finally saw dad was thorough and kind.
+1173,2026-04-09,NSW,"our regional ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1174,2025-07-24,VIC,Grateful for the volunteers helping people find their way around the children’s hospital ED today.
+1175,2026-02-11,NSW,Grateful for the volunteers helping people find their way around the children’s hospital ED today.
+1176,2026-05-30,VIC,"Staff at our regional ED were wonderful, shame about the 90 minutes wait though."
+1177,2025-10-30,NSW,Waited 3 hours at the local ED with a broken wrist. Left without being seen.
+1178,2026-02-25,VIC,Reminder that our regional ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1179,2026-02-02,WA,"Nurses at the local ED are clearly run off their feet. Not their fault, there just aren’t enough of them."
+1180,2025-09-18,SA,Triage nurse was rude and dismissive at the base hospital emergency department today. Understand the pressure but that stung.
+1181,2026-04-08,NSW,Spent 2 hours in our regional ED tonight with my son before anyone could see us. This is not okay.
+1182,2025-08-02,VIC,The waiting room at emergency has 20 seats and 60 people. People sitting on the floor.
+1183,2026-01-22,SA,Ambulances ramped outside our regional ED again this morning. 4 hours to offload. Something has to change.
+1184,2026-06-17,SA,The new short stay unit at the children’s hospital ED is a game changer for families. Well designed space.
+1185,2025-09-19,VIC,Triage category 2 presentation volumes at the local ED trending above the five-year mean this quarter.
+1186,2026-06-23,VIC,"Staff at the children’s hospital ED were wonderful, shame about the six hours wait though."
+1187,2026-02-07,ACT,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1188,2025-11-05,ACT,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1189,2025-07-17,WA,"Took mum to the local ED, told the wait is 4 hours. She is 84. How is this acceptable?"
+1190,2025-11-28,WA,Ambulances ramped outside the local ED again this morning. 90 minutes to offload. Something has to change.
+1191,2026-01-22,VIC,From arrival to discharge in under two hours at our regional ED. Credit where due.
+1192,2026-03-10,NSW,"New multistorey car park at emergency at our hospital opens next month, 400 spaces."
+1193,2026-02-21,SA,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1194,2026-05-13,VIC,The new short stay unit at emergency at our hospital is a game changer for families. Well designed space.
+1195,2026-02-04,NSW,Median time to treatment stats for our state published this morning. Link in bio.
+1196,2025-11-20,VIC,six hours in the waiting room at the local ED and still counting. The system is broken.
+1197,2026-06-10,NSW,"the children’s hospital ED has moved to a new triage intake process from Monday, per the health department update."
+1198,2025-10-04,QLD,"New multistorey car park at the base hospital emergency department opens next month, 400 spaces."
+1199,2025-09-21,NSW,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1200,2026-04-20,QLD,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1201,2026-01-04,WA,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1202,2026-02-12,QLD,"the base hospital emergency department still using paper forms at intake in 2026, queue out the door."
+1203,2025-10-17,QLD,Waited 5 hours at emergency with a broken wrist. Left without being seen.
+1204,2026-04-25,VIC,Presentation numbers at emergency at our hospital up on last winter according to the annual report.
+1205,2025-08-11,VIC,"emergency at our hospital recruiting registered nurses for the winter surge roster, applications close Friday."
+1206,2025-11-20,VIC,4 hours in the waiting room at our regional ED and still counting. The system is broken.
+1207,2026-05-07,VIC,Grateful for the volunteers helping people find their way around our regional ED today.
+1208,2025-10-04,NSW,Waited 2 hours at the local ED with a broken wrist. Left without being seen.
+1209,2026-06-05,WA,Third time this month the base hospital emergency department has been on bypass because of staff shortages.
+1210,2025-10-15,QLD,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1211,2026-02-01,NSW,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1212,2026-05-08,QLD,Reminder that the local ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1213,2026-04-14,VIC,Telehealth follow-up after our the local ED visit saved us a second trip. More of this please.
+1214,2026-01-06,VIC,"our regional ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1215,2026-04-23,NSW,No parking anywhere near the children’s hospital ED unless you can pay $28. People skip care over this.
+1216,2025-12-29,NSW,"Took mum to emergency at our hospital, told the wait is 5 hours. She is 84. How is this acceptable?"
+1217,2026-03-24,VIC,The waiting room at emergency has 20 seats and 60 people. People sitting on the floor.
+1218,2026-04-02,VIC,"Can’t fault the care at emergency at our hospital, even if the waiting room is falling apart."
+1219,2025-08-13,QLD,3 hours in the waiting room at the base hospital emergency department and still counting. The system is broken.
+1220,2025-09-11,NSW,Love paying $28 for parking to sit in emergency for 4 hours. Great value.
+1221,2025-08-21,VIC,Huge thanks to the triage team at emergency last night. Professional and kind under pressure.
+1222,2026-03-05,NSW,From arrival to discharge in under two hours at our regional ED. Credit where due.
+1223,2026-03-15,SA,Reminder that emergency at our hospital has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1224,2025-12-23,NT,"our regional ED has moved to a new triage intake process from Monday, per the health department update."
+1225,2026-03-29,NSW,Ambulances ramped outside the base hospital emergency department again this morning. 2 hours to offload. Something has to change.
+1226,2025-10-24,NT,"our regional ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1227,2025-08-05,WA,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1228,2026-03-29,VIC,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1229,2026-01-25,NSW,2 hours in the waiting room at our regional ED and still counting. The system is broken.
+1230,2026-04-14,QLD,Nurse practitioner at the local ED explained everything clearly. Felt genuinely looked after.
+1231,2026-05-29,VIC,"the children’s hospital ED has moved to a new triage intake process from Monday, per the health department update."
+1232,2025-11-13,VIC,Ambulances ramped outside the base hospital emergency department again this morning. 4 hours to offload. Something has to change.
+1233,2025-10-16,VIC,"Nurses at the children’s hospital ED are clearly run off their feet. Not their fault, there just aren’t enough of them."
+1234,2026-06-03,NSW,Triage nurse was rude and dismissive at emergency today. Understand the pressure but that stung.
+1235,2026-02-06,NSW,Huge thanks to the triage team at the local ED last night. Professional and kind under pressure.
+1236,2026-01-20,NT,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1237,2025-12-20,WA,No parking anywhere near our regional ED unless you can pay $28. People skip care over this.
+1238,2026-06-22,VIC,Reminder that emergency has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1239,2026-06-28,VIC,One doctor covering the whole of the children’s hospital ED on a Saturday night. Set up to fail.
+1240,2026-01-22,VIC,Another lovely evening at the local ED. 2 hours of premium waiting room entertainment.
+1241,2025-07-24,NSW,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1242,2025-11-05,NSW,Triage nurse was rude and dismissive at emergency today. Understand the pressure but that stung.
+1243,2025-11-26,NT,Spent 4 hours in emergency tonight with my son before anyone could see us. This is not okay.
+1244,2025-11-20,QLD,Nurse practitioner at the children’s hospital ED explained everything clearly. Felt genuinely looked after.
+1245,2026-06-22,TAS,Telehealth follow-up after our the children’s hospital ED visit saved us a second trip. More of this please.
+1246,2025-08-07,VIC,Triage nurse was rude and dismissive at the base hospital emergency department today. Understand the pressure but that stung.
+1247,2026-05-07,QLD,"Only 2 hours in the base hospital emergency department tonight, lightning fast service as always!"
+1248,2026-02-15,WA,Love paying $28 for parking to sit in emergency for six hours. Great value.
+1249,2026-01-18,VIC,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1250,2026-02-02,VIC,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1251,2025-11-05,ACT,"emergency recruiting registered nurses for the winter surge roster, applications close Friday."
+1252,2026-02-22,QLD,Nurse practitioner at emergency at our hospital explained everything clearly. Felt genuinely looked after.
+1253,2026-03-13,VIC,"emergency has moved to a new triage intake process from Monday, per the health department update."
+1254,2026-03-04,ACT,The new short stay unit at emergency at our hospital is a game changer for families. Well designed space.
+1255,2025-08-28,WA,Tried calling emergency four times today. No answer. How do people check anything?
+1256,2026-01-31,QLD,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1257,2026-04-15,TAS,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1258,2026-02-09,WA,Tried calling our regional ED four times today. No answer. How do people check anything?
+1259,2026-03-15,ACT,The wait at the local ED wasn’t as bad as people say. In and out in 4 hours.
+1260,2026-01-06,VIC,Reminder that emergency has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1261,2025-09-07,NSW,Third time this month emergency has been on bypass because of staff shortages.
+1262,2025-07-31,NSW,Presentation numbers at the local ED up on last winter according to the annual report.
+1263,2025-10-27,VIC,The waiting room at emergency at our hospital has 20 seats and 60 people. People sitting on the floor.
+1264,2025-12-09,NSW,Love paying $28 for parking to sit in the local ED for all night. Great value.
+1265,2025-11-16,VIC,"Wow, the children’s hospital ED really rolling out the red carpet, all night and counting. Amazing."
+1266,2026-02-15,WA,Grateful for the volunteers helping people find their way around the local ED today.
+1267,2026-03-30,VIC,Tried calling the local ED four times today. No answer. How do people check anything?
+1268,2025-10-23,NSW,Reminder that the children’s hospital ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1269,2025-07-05,WA,Presentation numbers at the children’s hospital ED up on last winter according to the annual report.
+1270,2025-10-01,WA,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1271,2025-09-25,QLD,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1272,2025-08-09,QLD,The waiting room at the children’s hospital ED has 20 seats and 60 people. People sitting on the floor.
+1273,2025-11-01,VIC,Telehealth follow-up after our the base hospital emergency department visit saved us a second trip. More of this please.
+1274,2026-05-16,QLD,Presentation numbers at the base hospital emergency department up on last winter according to the annual report.
+1275,2026-04-02,NSW,90 minutes in the waiting room at emergency and still counting. The system is broken.
+1276,2026-03-02,NSW,The waiting room at the base hospital emergency department has 20 seats and 60 people. People sitting on the floor.
+1277,2025-08-16,QLD,six hours in the waiting room at the base hospital emergency department and still counting. The system is broken.
+1278,2025-07-23,VIC,Reminder that emergency has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1279,2026-06-18,VIC,Ambulances ramped outside the children’s hospital ED again this morning. all night to offload. Something has to change.
+1280,2025-10-06,VIC,Spent 4 hours in emergency at our hospital tonight with my son before anyone could see us. This is not okay.
+1281,2025-12-13,VIC,Waited 90 minutes at the local ED with a broken wrist. Left without being seen.
+1282,2025-10-11,WA,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1283,2026-01-29,NSW,No working water fountain and one toilet for the entire the base hospital emergency department waiting area. Grim.
+1284,2025-12-24,QLD,Ambulances ramped outside the local ED again this morning. 5 hours to offload. Something has to change.
+1285,2025-11-13,VIC,"Honestly not unhappy with the care at the local ED today, seen quicker than expected."
+1286,2026-05-18,VIC,Grateful for the volunteers helping people find their way around the local ED today.
+1287,2026-03-13,QLD,Presentation numbers at the local ED up on last winter according to the annual report.
+1288,2026-03-19,NSW,Third time this month our regional ED has been on bypass because of staff shortages.
+1289,2026-01-05,NSW,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1290,2026-02-12,VIC,Third time this month emergency at our hospital has been on bypass because of staff shortages.
+1291,2025-09-19,NSW,Love paying $28 for parking to sit in emergency at our hospital for 4 hours. Great value.
+1292,2025-12-28,NSW,The new short stay unit at emergency at our hospital is a game changer for families. Well designed space.
+1293,2025-10-11,SA,"New multistorey car park at the local ED opens next month, 400 spaces."
+1294,2026-03-01,VIC,The waiting room at emergency has 20 seats and 60 people. People sitting on the floor.
+1295,2026-04-04,VIC,ED wait at emergency was 2 hours but the nurses were absolutely incredible once we got in.
+1296,2026-02-17,VIC,Nurse practitioner at the base hospital emergency department explained everything clearly. Felt genuinely looked after.
+1297,2025-10-29,QLD,"Honestly not unhappy with the care at the base hospital emergency department today, seen quicker than expected."
+1298,2026-02-18,NT,Triage category 2 presentation volumes at the children’s hospital ED trending above the five-year mean this quarter.
+1299,2025-09-09,QLD,Grateful for the volunteers helping people find their way around emergency today.
+1300,2025-11-16,QLD,Tried calling the base hospital emergency department four times today. No answer. How do people check anything?
+1301,2025-08-18,VIC,"the local ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1302,2026-03-25,QLD,Presentation numbers at our regional ED up on last winter according to the annual report.
+1303,2026-02-23,QLD,The waiting room at our regional ED has 20 seats and 60 people. People sitting on the floor.
+1304,2026-04-25,QLD,Spent all night in our regional ED tonight with my son before anyone could see us. This is not okay.
+1305,2025-11-25,TAS,Triage category 2 presentation volumes at the children’s hospital ED trending above the five-year mean this quarter.
+1306,2025-11-27,VIC,"Staff at our regional ED were wonderful, shame about the all night wait though."
+1307,2026-06-01,VIC,"the local ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1308,2026-06-03,NSW,One doctor covering the whole of emergency at our hospital on a Saturday night. Set up to fail.
+1309,2026-06-21,SA,"New multistorey car park at the base hospital emergency department opens next month, 400 spaces."
+1310,2025-11-27,NSW,Another lovely evening at emergency. 90 minutes of premium waiting room entertainment.
+1311,2026-06-05,VIC,"New multistorey car park at the base hospital emergency department opens next month, 400 spaces."
+1312,2025-12-12,QLD,Telehealth follow-up after our the local ED visit saved us a second trip. More of this please.
+1313,2026-06-12,WA,"the base hospital emergency department recruiting registered nurses for the winter surge roster, applications close Friday."
+1314,2025-12-09,NSW,ED wait at our regional ED was 3 hours but the nurses were absolutely incredible once we got in.
+1315,2026-03-21,WA,ED wait at our regional ED was 2 hours but the nurses were absolutely incredible once we got in.
+1316,2026-02-19,WA,Telehealth follow-up after our emergency visit saved us a second trip. More of this please.
+1317,2026-01-02,QLD,ED wait at emergency at our hospital was 90 minutes but the nurses were absolutely incredible once we got in.
+1318,2025-12-15,QLD,"the local ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1319,2025-12-16,WA,The wait at emergency wasn’t as bad as people say. In and out in 3 hours.
+1320,2025-08-07,VIC,Waited 3 hours at the base hospital emergency department with a broken wrist. Left without being seen.
+1321,2025-08-05,ACT,Third time this month the children’s hospital ED has been on bypass because of staff shortages.
+1322,2025-12-10,QLD,"Honestly not unhappy with the care at our regional ED today, seen quicker than expected."
+1323,2026-06-22,WA,Tried calling emergency at our hospital four times today. No answer. How do people check anything?
+1324,2025-11-03,NSW,all night in the waiting room at the base hospital emergency department and still counting. The system is broken.
+1325,2026-01-21,QLD,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1326,2025-12-05,NSW,Spent 2 hours in the children’s hospital ED tonight with my son before anyone could see us. This is not okay.
+1327,2026-02-18,NSW,"Took mum to our regional ED, told the wait is 4 hours. She is 84. How is this acceptable?"
+1328,2026-05-16,QLD,Huge thanks to the triage team at emergency at our hospital last night. Professional and kind under pressure.
+1329,2026-05-24,VIC,Spent 5 hours in emergency tonight with my son before anyone could see us. This is not okay.
+1330,2025-11-13,QLD,"Only all night in emergency at our hospital tonight, lightning fast service as always!"
+1331,2026-03-07,SA,The wait at the children’s hospital ED wasn’t as bad as people say. In and out in all night.
+1332,2026-01-21,VIC,Waited 90 minutes at our regional ED with a broken wrist. Left without being seen.
+1333,2025-09-03,NSW,Spent 2 hours in the base hospital emergency department tonight with my son before anyone could see us. This is not okay.
+1334,2025-07-04,NSW,The new short stay unit at the children’s hospital ED is a game changer for families. Well designed space.
+1335,2026-01-20,NT,"the children’s hospital ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1336,2026-06-12,QLD,3 hours in the waiting room at emergency and still counting. The system is broken.
+1337,2026-02-25,SA,No working water fountain and one toilet for the entire emergency waiting area. Grim.
+1338,2026-03-05,NT,Waited 2 hours but the doctor who finally saw dad was thorough and kind.
+1339,2025-10-07,QLD,Waited 90 minutes at the children’s hospital ED with a broken wrist. Left without being seen.
+1340,2026-01-26,WA,Presentation numbers at the base hospital emergency department up on last winter according to the annual report.
+1341,2026-06-13,QLD,From arrival to discharge in under two hours at the base hospital emergency department. Credit where due.
+1342,2026-01-07,WA,Huge thanks to the triage team at emergency last night. Professional and kind under pressure.
+1343,2026-05-25,VIC,Waited 2 hours at the children’s hospital ED with a broken wrist. Left without being seen.
+1344,2026-04-06,NSW,"our regional ED has moved to a new triage intake process from Monday, per the health department update."
+1345,2026-06-17,WA,Huge thanks to the triage team at the base hospital emergency department last night. Professional and kind under pressure.
+1346,2026-06-14,NSW,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1347,2025-12-18,NSW,Nurse practitioner at the local ED explained everything clearly. Felt genuinely looked after.
+1348,2025-09-06,QLD,six hours in the waiting room at the children’s hospital ED and still counting. The system is broken.
+1349,2025-11-18,QLD,"the base hospital emergency department recruiting registered nurses for the winter surge roster, applications close Friday."
+1350,2025-08-28,QLD,Spent all night in emergency tonight with my son before anyone could see us. This is not okay.
+1351,2025-07-09,VIC,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1352,2025-10-17,QLD,Telehealth follow-up after our the local ED visit saved us a second trip. More of this please.
+1353,2026-04-19,QLD,4 hours in the waiting room at the base hospital emergency department and still counting. The system is broken.
+1354,2025-08-02,QLD,Nurse practitioner at emergency at our hospital explained everything clearly. Felt genuinely looked after.
+1355,2025-12-11,NSW,Reminder that the children’s hospital ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1356,2026-02-12,QLD,Third time this month our regional ED has been on bypass because of staff shortages.
+1357,2026-02-20,NSW,Reminder that emergency at our hospital has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1358,2026-04-23,QLD,"Took mum to emergency at our hospital, told the wait is 3 hours. She is 84. How is this acceptable?"
+1359,2025-07-05,SA,Telehealth follow-up after our the children’s hospital ED visit saved us a second trip. More of this please.
+1360,2025-09-13,NT,Nurse practitioner at the local ED explained everything clearly. Felt genuinely looked after.
+1361,2025-09-12,NSW,"the base hospital emergency department recruiting registered nurses for the winter surge roster, applications close Friday."
+1362,2026-04-13,SA,"Nurses at the children’s hospital ED are clearly run off their feet. Not their fault, there just aren’t enough of them."
+1363,2025-11-06,SA,Third time this month the base hospital emergency department has been on bypass because of staff shortages.
+1364,2025-08-01,NT,Telehealth follow-up after our emergency visit saved us a second trip. More of this please.
+1365,2026-04-19,VIC,Median time to treatment stats for our state published this morning. Link in bio.
+1366,2025-12-02,VIC,One doctor covering the whole of the base hospital emergency department on a Saturday night. Set up to fail.
+1367,2025-10-11,QLD,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1368,2026-06-01,QLD,Huge thanks to the triage team at emergency last night. Professional and kind under pressure.
+1369,2026-06-08,SA,Triage category 2 presentation volumes at emergency at our hospital trending above the five-year mean this quarter.
+1370,2026-05-12,QLD,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1371,2025-12-29,SA,Grateful for the volunteers helping people find their way around the local ED today.
+1372,2026-04-03,QLD,Waited 4 hours at our regional ED with a broken wrist. Left without being seen.
+1373,2025-07-14,NSW,Waited 5 hours but the doctor who finally saw dad was thorough and kind.
+1374,2025-09-19,QLD,Median time to treatment stats for our state published this morning. Link in bio.
+1375,2026-02-01,VIC,Huge thanks to the triage team at emergency at our hospital last night. Professional and kind under pressure.
+1376,2026-02-24,NSW,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1377,2025-07-09,NSW,From arrival to discharge in under two hours at the base hospital emergency department. Credit where due.
+1378,2026-02-17,NSW,"Took mum to our regional ED, told the wait is 90 minutes. She is 84. How is this acceptable?"
+1379,2026-06-13,QLD,Telehealth follow-up after our the local ED visit saved us a second trip. More of this please.
+1380,2026-05-13,NSW,"emergency has moved to a new triage intake process from Monday, per the health department update."
+1381,2026-01-16,WA,No working water fountain and one toilet for the entire the children’s hospital ED waiting area. Grim.
+1382,2026-06-01,QLD,No working water fountain and one toilet for the entire emergency at our hospital waiting area. Grim.
+1383,2026-04-25,QLD,Reminder that the children’s hospital ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1384,2025-08-25,VIC,Telehealth follow-up after our our regional ED visit saved us a second trip. More of this please.
+1385,2026-03-29,VIC,From arrival to discharge in under two hours at the base hospital emergency department. Credit where due.
+1386,2025-10-19,VIC,Nurse practitioner at emergency explained everything clearly. Felt genuinely looked after.
+1387,2025-10-22,WA,Reminder that our regional ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1388,2026-02-11,NSW,The wait at the local ED wasn’t as bad as people say. In and out in 2 hours.
+1389,2026-01-22,WA,"Can’t fault the care at the children’s hospital ED, even if the waiting room is falling apart."
+1390,2025-10-26,VIC,Telehealth follow-up after our the base hospital emergency department visit saved us a second trip. More of this please.
+1391,2026-05-28,NSW,Presentation numbers at the children’s hospital ED up on last winter according to the annual report.
+1392,2026-06-03,VIC,Grateful for the volunteers helping people find their way around the children’s hospital ED today.
+1393,2025-09-05,QLD,"Nurses at the local ED are clearly run off their feet. Not their fault, there just aren’t enough of them."
+1394,2026-05-27,NSW,"ED short stay unit admission criteria updated, see the revised clinical pathway document."
+1395,2025-10-27,VIC,Triage category 2 presentation volumes at emergency trending above the five-year mean this quarter.
+1396,2025-09-29,WA,The waiting room at our regional ED has 20 seats and 60 people. People sitting on the floor.
+1397,2025-07-26,VIC,"the base hospital emergency department still using paper forms at intake in 2026, queue out the door."
+1398,2025-08-28,VIC,Grateful for the volunteers helping people find their way around our regional ED today.
+1399,2026-02-09,QLD,Waited 90 minutes but the doctor who finally saw dad was thorough and kind.
+1400,2025-09-29,TAS,Triage category 2 presentation volumes at emergency at our hospital trending above the five-year mean this quarter.
+1401,2025-12-01,VIC,Presentation numbers at emergency up on last winter according to the annual report.
+1402,2025-12-24,NSW,Presentation numbers at emergency up on last winter according to the annual report.
+1403,2026-06-13,TAS,Presentation numbers at emergency at our hospital up on last winter according to the annual report.
+1404,2026-03-08,VIC,Love paying $28 for parking to sit in the local ED for 4 hours. Great value.
+1405,2025-08-04,NSW,Presentation numbers at the local ED up on last winter according to the annual report.
+1406,2025-07-28,VIC,"the local ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1407,2026-01-06,NSW,The new short stay unit at the local ED is a game changer for families. Well designed space.
+1408,2025-11-23,QLD,"New multistorey car park at our regional ED opens next month, 400 spaces."
+1409,2026-03-17,WA,Median time to treatment stats for our state published this morning. Link in bio.
+1410,2026-01-06,QLD,One doctor covering the whole of the base hospital emergency department on a Saturday night. Set up to fail.
+1411,2026-03-07,NSW,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1412,2025-12-06,WA,Grateful for the volunteers helping people find their way around emergency today.
+1413,2025-07-30,NSW,Spent 5 hours in emergency tonight with my son before anyone could see us. This is not okay.
+1414,2026-06-23,QLD,"the children’s hospital ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1415,2025-09-30,VIC,"Took mum to the base hospital emergency department, told the wait is 2 hours. She is 84. How is this acceptable?"
+1416,2025-08-19,NSW,Presentation numbers at emergency at our hospital up on last winter according to the annual report.
+1417,2025-11-22,WA,Presentation numbers at our regional ED up on last winter according to the annual report.
+1418,2025-07-21,SA,"Can’t fault the care at the local ED, even if the waiting room is falling apart."
+1419,2025-09-27,NSW,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1420,2025-12-08,NSW,Reminder that the children’s hospital ED has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1421,2026-04-28,NSW,Ambulances ramped outside emergency at our hospital again this morning. six hours to offload. Something has to change.
+1422,2026-05-15,QLD,Telehealth follow-up after our the base hospital emergency department visit saved us a second trip. More of this please.
+1423,2026-04-21,NSW,"emergency has moved to a new triage intake process from Monday, per the health department update."
+1424,2025-08-16,QLD,Grateful for the volunteers helping people find their way around emergency today.
+1425,2025-11-03,WA,Tried calling the children’s hospital ED four times today. No answer. How do people check anything?
+1426,2026-05-23,SA,"Only 5 hours in the base hospital emergency department tonight, lightning fast service as always!"
+1427,2026-04-03,NSW,No parking anywhere near our regional ED unless you can pay $28. People skip care over this.
+1428,2026-03-12,QLD,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1429,2025-12-01,QLD,Telehealth follow-up after our the children’s hospital ED visit saved us a second trip. More of this please.
+1430,2025-12-11,SA,The waiting room at the children’s hospital ED has 20 seats and 60 people. People sitting on the floor.
+1431,2025-07-27,NSW,"Can’t fault the care at emergency, even if the waiting room is falling apart."
+1432,2025-11-11,VIC,Closest ED is now 90 minutes away since they downgraded our local. Rural health crisis is real.
+1433,2026-03-16,QLD,Spent 4 hours in emergency at our hospital tonight with my son before anyone could see us. This is not okay.
+1434,2026-04-06,WA,No working water fountain and one toilet for the entire the base hospital emergency department waiting area. Grim.
+1435,2025-11-19,QLD,Love paying $28 for parking to sit in emergency at our hospital for 4 hours. Great value.
+1436,2025-10-24,SA,Telehealth follow-up after our the local ED visit saved us a second trip. More of this please.
+1437,2026-02-10,WA,Third time this month the children’s hospital ED has been on bypass because of staff shortages.
+1438,2025-11-11,NSW,Third time this month the local ED has been on bypass because of staff shortages.
+1439,2025-12-29,VIC,Spent six hours in emergency tonight with my son before anyone could see us. This is not okay.
+1440,2025-08-13,VIC,Reminder that the base hospital emergency department has a dedicated fast-track stream for triage category 4 and 5 presentations.
+1441,2025-11-30,WA,Waited 5 hours but the doctor who finally saw dad was thorough and kind.
+1442,2025-07-17,WA,Spent 3 hours in emergency at our hospital tonight with my son before anyone could see us. This is not okay.
+1443,2025-11-18,NSW,Love paying $28 for parking to sit in the children’s hospital ED for 3 hours. Great value.
+1444,2025-08-05,WA,From arrival to discharge in under two hours at the base hospital emergency department. Credit where due.
+1445,2025-08-16,VIC,The new short stay unit at emergency at our hospital is a game changer for families. Well designed space.
+1446,2026-06-16,VIC,Median time to treatment stats for our state published this morning. Link in bio.
+1447,2026-04-05,VIC,Waited 2 hours but the doctor who finally saw dad was thorough and kind.
+1448,2025-11-18,QLD,Telehealth follow-up after our emergency visit saved us a second trip. More of this please.
+1449,2025-07-27,QLD,"the local ED recruiting registered nurses for the winter surge roster, applications close Friday."
+1450,2026-02-21,SA,Huge thanks to the triage team at our regional ED last night. Professional and kind under pressure.
+1451,2025-07-20,WA,"Nurses at our regional ED are clearly run off their feet. Not their fault, there just aren’t enough of them."
+1452,2025-07-27,NSW,Triage category 2 presentation volumes at emergency trending above the five-year mean this quarter.
+1453,2025-10-01,VIC,Quarterly ED presentation figures released today show seasonal patterns holding steady.
+1454,2025-10-01,TAS,"the children’s hospital ED has moved to a new triage intake process from Monday, per the health department update."
+1455,2026-03-17,NSW,The new short stay unit at the local ED is a game changer for families. Well designed space.
+1456,2025-09-17,VIC,Tried calling our regional ED four times today. No answer. How do people check anything?
+1457,2026-06-29,NSW,"emergency recruiting registered nurses for the winter surge roster, applications close Friday."
+1458,2025-08-13,NT,"Only 4 hours in emergency at our hospital tonight, lightning fast service as always!"
+1459,2025-12-28,VIC,"emergency at our hospital recruiting registered nurses for the winter surge roster, applications close Friday."
+1460,2025-12-20,NSW,2 hours in the waiting room at emergency at our hospital and still counting. The system is broken.
+1461,2026-05-02,VIC,Third time this month the local ED has been on bypass because of staff shortages.
+1462,2025-11-25,NSW,"Community info session on when to use urgent care vs emergency, Thursday 6pm at the library."
+1463,2026-01-18,QLD,"the base hospital emergency department still using paper forms at intake in 2026, queue out the door."
+1464,2026-04-19,QLD,"our regional ED has moved to a new triage intake process from Monday, per the health department update."
+1465,2026-03-12,WA,Huge thanks to the triage team at the base hospital emergency department last night. Professional and kind under pressure.
+1466,2026-02-26,NSW,"our regional ED has moved to a new triage intake process from Monday, per the health department update."
+1467,2026-06-15,NSW,"Nurses at the children’s hospital ED are clearly run off their feet. Not their fault, there just aren’t enough of them."
+1468,2026-04-20,NSW,Another lovely evening at the local ED. 2 hours of premium waiting room entertainment.
+1469,2026-06-22,TAS,Ambulances ramped outside the children’s hospital ED again this morning. six hours to offload. Something has to change.
+1470,2025-09-17,VIC,"the local ED has moved to a new triage intake process from Monday, per the health department update."
+1471,2025-08-05,TAS,One doctor covering the whole of the children’s hospital ED on a Saturday night. Set up to fail.
+1472,2025-09-17,NSW,No parking anywhere near the local ED unless you can pay $28. People skip care over this.
+1473,2025-09-06,NSW,Huge thanks to the triage team at the base hospital emergency department last night. Professional and kind under pressure.
+1474,2026-01-02,NSW,Telehealth follow-up after our emergency at our hospital visit saved us a second trip. More of this please.
+1475,2026-05-02,SA,"the children’s hospital ED has moved to a new triage intake process from Monday, per the health department update."
+1476,2025-08-07,NSW,"Took mum to our regional ED, told the wait is 5 hours. She is 84. How is this acceptable?"
+1477,2025-08-01,QLD,Presentation numbers at emergency up on last winter according to the annual report.
+1478,2025-12-03,NT,From arrival to discharge in under two hours at the local ED. Credit where due.
+1479,2025-12-31,WA,Huge thanks to the triage team at emergency at our hospital last night. Professional and kind under pressure.
+1480,2026-01-12,NT,Nurse practitioner at emergency explained everything clearly. Felt genuinely looked after.
